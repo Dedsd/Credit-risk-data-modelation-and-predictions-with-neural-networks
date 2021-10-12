@@ -13,7 +13,7 @@
 
 - Pandas
 - Numpy
-- Matplotlip
+- Matplotlib
 - Seaborn
 - Sklearn
 - Pickle
