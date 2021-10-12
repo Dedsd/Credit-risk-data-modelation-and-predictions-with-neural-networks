@@ -46,7 +46,7 @@
 
 ### Tranforming the values with standard scaler
 
-#### I used the standard scaler to normalize the database. What it does is basically standardize the database so that it doesn't have too many different values that can hinder the machine learning algorithm. Example: a value of 20000 compared to 10 may seem "better" to the algorithm so this standardization is done.
+#### I used the standard scale to normalize the database. It basically standardize the database so there isn't too many different values that can hinder the machine learning algorithm. Example: a value of 20000 compared to 10 may seem "better" to the algorithm so this standardization is done.
 
 ---
 
@@ -58,11 +58,11 @@
 
 ### Using neural networks to predict if the customer will or not pay the loan
 
-#### After pre-processing the data we will create, train and test the neural network. Using the MLPClassifier from lib sklearn I used the following values:
+#### After pre-processing the data we will create, train and test the neural network. I used the following values for MLPClassifier from sklearn:
 ```
 max_iter=1750, verbose=True, solver='adam', activation='tanh', hidden_layer_sizes=(25, 25)
 ```
-#### We train the algorithm with the training database and then create the variable for the neural network to predict whether or not the customer will pay. We got an excellent result, 99.67% accuracy score.
+#### We train the algorithm with the database, and create the variable for the neural network to predict whether the client will pay or not pay. We've got an axcellent result, 99.67% accuracy score.
 <img src='images/res.png'>
 
 #### Classification report:
