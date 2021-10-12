@@ -62,7 +62,7 @@
 ```
 max_iter=1750, verbose=True, solver='adam', activation='tanh', hidden_layer_sizes=(25, 25)
 ```
-#### We train the algorithm with the training database and then create the variable for the neural net to predict whether or not the customer will pay. We got an excellent result, 99.67% accuracy score.
+#### We train the algorithm with the training database and then create the variable for the neural network to predict whether or not the customer will pay. We got an excellent result, 99.67% accuracy score.
 <img src='images/res.png'>
 
 #### Classification report:
