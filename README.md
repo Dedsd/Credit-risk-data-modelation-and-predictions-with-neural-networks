@@ -21,7 +21,7 @@
 
 ### Description
 
-#### This database shows a list of customers with income, age, loan size, and whether they have paid off the loan or not.
+#### This database shows a list of customers with incomes, age, loan size, and whether they have paid off the loan or not.
 <img src='images/creditrisk.png'>
 
 #### We have the average 45.33K in income, 44.44K in loans and an average age of 40 years.
