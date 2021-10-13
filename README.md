@@ -12,7 +12,6 @@
 ### Used libraries
 
 - Pandas
-- Numpy
 - Matplotlib
 - Seaborn
 - Sklearn
