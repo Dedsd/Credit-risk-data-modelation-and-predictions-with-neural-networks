@@ -26,6 +26,12 @@
 #### We have the average 45.33K in incomes, 44.44K in loans and an average age of 40 years.
 <img src='images/de.png'>
 
+#### With this plot we can visualize that there are higher chances to the customers pay it when the loan is lower
+<img src='images/deflo.png'>
+
+#### We have more loans with smaller amounts in this database
+<img src='images/lo.png'>
+
 #### We can see that most people paid[0] the loan comparing to people who don't pay[1]
 <img src='images/def.png'>
 
