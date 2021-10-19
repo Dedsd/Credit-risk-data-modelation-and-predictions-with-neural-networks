@@ -1,4 +1,4 @@
-<img src='images/creditrisk.gif'>
+<img src='images/creditrisk.gif' width='900'>
 
 ---
 
