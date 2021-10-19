@@ -1,4 +1,4 @@
-## Credit risk data modelation and predictions with neural networks
+<img src='images/creditrisk.gif'>
 
 ---
 
